@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Except these files
+!btn-handler.jsx
+!App.jsx
+!App.css
+!server.py
+!README.md
+!.gitignore
+
+# Allow directories to be traversed
+!*/
